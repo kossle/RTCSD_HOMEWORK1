@@ -1,7 +1,1 @@
-language: cpp
-compiler:
-  - gcc
-  - clang
-# Change this to your needs
-script: ./configure &amp;&amp; make
-sudo: required
+
