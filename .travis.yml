@@ -2,11 +2,6 @@ language: cpp
 compiler:
   - gcc
   - clang
-script: make && make test
-notifications:
-  email:
-    recipients:
-      - 1967626071@qq.com
-    on_success: change
-    on_failure: always
+# Change this to your needs
+script: ./configure &amp;&amp; make
 sudo: required
