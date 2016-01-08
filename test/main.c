@@ -1,5 +1,4 @@
 #include "print.h"
-int main(void){
-　　print("hello");
+int main(){
 　　return 0;
 }
