@@ -1,1 +1,8 @@
+---
+language: cpp
+
+compiler:
+  - gcc
+
+script: cd homework1.cpp && make
 
