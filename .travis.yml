@@ -7,3 +7,5 @@ compiler:
 
 script: cd test && make
 
+sudo: required
+
