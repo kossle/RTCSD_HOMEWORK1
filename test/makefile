@@ -1,4 +1,4 @@
-SRCS = hello.c tes1.c
+SRCS = hello.c test1.c
 HDRS =
 PROJ = example
 
