@@ -1,6 +1,6 @@
 SRCS = hello.c test1.c
 HDRS =
-PROJ = example
+PROJ = hello test1
 
 
 CC = g++
