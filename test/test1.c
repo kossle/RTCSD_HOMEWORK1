@@ -1,5 +1,5 @@
 //mytest.cpp
-#include <iostream.h>
+#include <iostream>
 #include <cppunit/TestCase.h>
 
 class MyTest:public CppUnit::TestCase
