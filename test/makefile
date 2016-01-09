@@ -3,7 +3,7 @@ HDRS =
 PROJ = hello 
 
 
-CC = g++
+CC = gcc
 OBJS = $(SRCS:.cpp=.o)
 APP = $(PROJ)
 CFLAGS = -c -g -Wall -I/opt/local/include
@@ -26,7 +26,7 @@ HDRS1 =
 PROJ1 = test1 
 
 
-CC = g++
+CC = gcc
 OBJS1 = $(SRCS1:.cpp=.o)
 APP1 = $(PROJ1)
 CFLAGS = -c -g -Wall -I/opt/local/include
